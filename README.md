@@ -29,6 +29,10 @@ The system uses a YOLOv8 model for object detection and extends it with a custom
 - Risk classification (LOW, MEDIUM, CRITICAL)
 - Alerts such as RUNWAY CONFLICT DETECTED
 
+## Sample Output
+
+![Result](sample_frame.png)
+
 ## Run the Project
 
 ```bash
